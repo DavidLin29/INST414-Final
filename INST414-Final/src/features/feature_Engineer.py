@@ -1,5 +1,5 @@
 # src/features/build_features.py
-
+# Feature engineering
 import pandas as pd
 import os
 from sklearn.preprocessing import MinMaxScaler
